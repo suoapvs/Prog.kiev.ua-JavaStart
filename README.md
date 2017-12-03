@@ -326,9 +326,9 @@
             <!--</a>-->
         </li>
         <li> 8.
-            <!--<a href="/src/main/java/com/yurii/salimov/practice/task08">-->
+            <a href="/src/main/java/com/yurii/salimov/practice/task08">
                 Реализовать аналог Integer.parseInt.
-            <!--</a>-->
+            </a>
         </li>
         <li> 9.
             <a href="/src/main/java/com/yurii/salimov/practice/task09">
