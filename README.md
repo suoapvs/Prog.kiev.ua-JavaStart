@@ -301,9 +301,9 @@
             </a>
         </li>
         <li> 3.
-            <!--<a href="/src/main/java/com/yurii/salimov/practice/task03">-->
+            <a href="/src/main/java/com/yurii/salimov/practice/task03">
                 Найти в предложении самое короткое и самое длинное слово.
-            <!--</a>-->
+            </a>
         </li>
         <li> 4.
             <!--<a href="/src/main/java/com/yurii/salimov/practice/task04">-->
