@@ -331,9 +331,9 @@
             <!--</a>-->
         </li>
         <li> 9.
-            <!--<a href="/src/main/java/com/yurii/salimov/practice/task09">-->
+            <a href="/src/main/java/com/yurii/salimov/practice/task09">
                 Вывести на экран таблицу умножения.
-            <!--</a>-->
+            </a>
         </li>
         <li> 10.
             <!--<a href="/src/main/java/com/yurii/salimov/practice/task10">-->
