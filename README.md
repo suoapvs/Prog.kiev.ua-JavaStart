@@ -295,10 +295,10 @@
             <!--</a>-->
         </li>
         <li> 2.
-            <!--<a href="/src/main/java/com/yurii/salimov/practice/task02">-->
+            <a href="/src/main/java/com/yurii/salimov/practice/task02">
                 Построить таблицу значений ф-и на отрезке [-1; 0.75].
                 f(x) = x * (1 + 2 / (x + 7))^(x / 10)
-            <!--</a>-->
+            </a>
         </li>
         <li> 3.
             <!--<a href="/src/main/java/com/yurii/salimov/practice/task03">-->
