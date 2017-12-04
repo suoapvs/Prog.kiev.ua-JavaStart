@@ -90,16 +90,21 @@
             </a>
         </li>
         <li> 4.3
-            <a href="/src/main/java/com/yurii/salimov/lesson04/task03_04_05">
+            <a href="/src/main/java/com/yurii/salimov/lesson04/task03">
                 Заполнить массив числами от 100 до 0.
             </a>
         </li>
         <li> 4.4
-            <a href="/src/main/java/com/yurii/salimov/lesson04/task03_04_05">
+            <a href="/src/main/java/com/yurii/salimov/lesson04/task04">
                 Дано массив из 10 целых чисел. Вывести на экран
                 сумму всех его элементов кроме первого и
                 последнего.
             </a>
+        </li>
+        <li> 4.5
+            <!--<a href="/src/main/java/com/yurii/salimov/lesson04/task05">-->
+                * Написать игру «Крестики нолики» используя двухмерные массивы.
+            <!--</a>-->
         </li>
         <li> 4.6
             <a href="/src/main/java/com/yurii/salimov/lesson04/task06">
