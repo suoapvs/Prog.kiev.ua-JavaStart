@@ -9,7 +9,7 @@
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>Prog.kiev.ua Java Start Homework</name>
+    <name>Prog.kiev.ua, Java Start</name>
 
     <build>
         <plugins>
