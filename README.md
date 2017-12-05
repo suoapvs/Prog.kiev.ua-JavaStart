@@ -343,10 +343,10 @@
             </a>
         </li>
         <li> 10.
-            <!--<a href="/src/main/java/com/yurii/salimov/practice/task10">-->
+            <a href="/src/main/java/com/yurii/salimov/practice/task10">
                 Дано два числа short1 и short2. Сделать из них один int
                 методом конкатенации с помощью побитовых операций.
-            <!--</a>-->
+            </a>
         </li>
         <li> 11.
             <a href="/src/main/java/com/yurii/salimov/practice/task11">
