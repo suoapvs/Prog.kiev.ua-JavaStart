@@ -2,7 +2,7 @@
 
 <h3>Java Start, Homework</h3>
 
-[**Java OOP ->**](https://github.com/YuriiSalimov/Prog.kiev.ua-JavaOOP)
+[**Java OOP ==>**](https://github.com/YuriiSalimov/Prog.kiev.ua-JavaOOP)
 
 <ol>
 <li>Занятие 1</li>
@@ -361,6 +361,6 @@
 
 </ol>
 
-[**Java OOP ->**](https://github.com/YuriiSalimov/Prog.kiev.ua-JavaOOP)
+[**Java OOP ==>**](https://github.com/YuriiSalimov/Prog.kiev.ua-JavaOOP)
 
 [_**Yurii Salimov**_](https://www.linkedin.com/in/yurii-salimov)  ([yuriy.alex.salimov@gmail.com](mailto:yuriy.alex.salimov@gmail.com))
